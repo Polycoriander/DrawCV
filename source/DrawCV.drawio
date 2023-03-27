@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T11:57:29.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="IN8WnkWQHLReaeEONAda" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T11:59:02.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="NsNxPdEsF7WjA_G9ZD7-" version="21.0.10" type="github">
   <diagram id="kWV1w4FAC4IXIcKnAsgC" name="第 1 页">
     <mxGraphModel dx="1137" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,10 +119,10 @@
           <mxGeometry x="60" y="238" width="416" height="20" as="geometry" />
         </mxCell>
         <mxCell id="csp5jKro6aII4pgKmo1C-25" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;a&gt;MISVIS:一个高性能的医学影响分割可视化系统&lt;/a&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Source Han Sans;fontStyle=1;fontColor=#404964;" parent="1" vertex="1">
-          <mxGeometry x="60" y="376" width="416" height="20" as="geometry" />
+          <mxGeometry x="60" y="393" width="416" height="20" as="geometry" />
         </mxCell>
         <mxCell id="csp5jKro6aII4pgKmo1C-26" value="2022.3-2023.3" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=15;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="399" y="378.5" width="127" height="14" as="geometry" />
+          <mxGeometry x="399" y="395.5" width="127" height="14" as="geometry" />
         </mxCell>
         <mxCell id="csp5jKro6aII4pgKmo1C-27" value="2022.4-至今" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=15;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="399" y="241" width="127" height="14" as="geometry" />
@@ -146,13 +146,13 @@
           <mxGeometry x="60" y="720" width="474" height="55.73" as="geometry" />
         </mxCell>
         <mxCell id="AF2Ux_LV5sccvWK5wioI-1" value="仿真五段重定向流水线 &lt;span&gt;CPU&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Source Han Sans;fontStyle=1;fontColor=#404964;" parent="1" vertex="1">
-          <mxGeometry x="60" y="546.5" width="416" height="20" as="geometry" />
+          <mxGeometry x="60" y="563.5" width="416" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AF2Ux_LV5sccvWK5wioI-2" value="2022.9" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=15;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="476" y="549.5" width="47" height="14" as="geometry" />
+          <mxGeometry x="476" y="566.5" width="47" height="14" as="geometry" />
         </mxCell>
         <mxCell id="AF2Ux_LV5sccvWK5wioI-3" value="&lt;p style=&quot;line-height: 1.6;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;使用电路仿真软件 Logisim 完成电路绘制，系统支持 28 条 MIPS 指令，实现了多级嵌套中断和经典五段流水线，通过重定向消解数据冲突，实现分支预测算法提升性能，最终能运行具有一定复杂度的测试程序。&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="60" y="577.27" width="466" height="55" as="geometry" />
+          <mxGeometry x="60" y="594.27" width="466" height="55" as="geometry" />
         </mxCell>
         <mxCell id="yd8UG1YGdG23kV3HeNFb-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;学院&amp;nbsp; &amp;nbsp; 计算机科学与技术&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="568" y="270" width="199" height="23" as="geometry" />
@@ -173,7 +173,7 @@
           <mxGeometry x="60" y="904.87" width="416" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bfRggrqysrBHd63fmyZp-8" value="&lt;p style=&quot;line-height: 1.6;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;建立图像分割模型，并部署到后端，前端展示患者的医学影像通过图像分割提取出肝脏区域和病灶，并进行诊断结果的可视&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot;&gt;化展示。&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;利用机器学习方法，通过对患者血液生化指标进行数据建模，预判患者的危重症概率。&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;构建新冠的领域知识图谱，辅助进行诊断与治疗。&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="60" y="410" width="470" height="130" as="geometry" />
+          <mxGeometry x="60" y="427" width="470" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FfB3XOqb4s0oCp6kKc45-2" value="美国大学生数学建模竞赛(CUMCM)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Source Han Sans;fontStyle=1;fontColor=#404964;" parent="1" vertex="1">
           <mxGeometry x="68" y="950" width="416" height="20" as="geometry" />
@@ -182,7 +182,7 @@
           <mxGeometry x="66" y="980" width="474" height="55.73" as="geometry" />
         </mxCell>
         <mxCell id="FfB3XOqb4s0oCp6kKc45-6" value="&lt;p style=&quot;line-height: 1.6;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;国家级大创、国家重点立项（全校仅有3个）&lt;br&gt;1.核心技术是唇语识别技术，阅读了一些唇语识别相关论文并进行复现。&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br&gt;2.前处理部分主要负责人脸追踪，阅读bytetrack、BoTSORT等相关论文并进行复现，并研究了计算人脸相似度的策略，结合实际在iou、reID等方面进行改进。&lt;br&gt;3.学习了计算有效感受野的方法。&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="60" y="270" width="466" height="55" as="geometry" />
+          <mxGeometry x="60" y="280" width="466" height="55" as="geometry" />
         </mxCell>
         <mxCell id="3mT8dqWE3D6vOox3WU8e-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;学校&amp;nbsp; &amp;nbsp; 华中科技大学&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Source Han Sans;fontSize=12;fontColor=#6D7684;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="568" y="236.5" width="199" height="23" as="geometry" />
